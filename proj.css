@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply styles to the div with class 'one' */
+.one {
+    background-color: #714242;
+    padding: 20px;
+}
+
+/* Apply styles to the div with class 'two' */
+.two {
+    text-align: center;
+}
+
+/* Apply styles to the h1 elements */
+h1 {
+    color: #ce901eaf;
+}
+
+/* Apply styles to the div with class 'three' */
+.three {
+    text-align: center;
+}
+
+/* Apply styles to the anchor elements with class 'four' */
+.four {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333333;
+}
+
+/* Apply styles to the div with class 'five' */
+.five {
+    padding: 20px;
+}
+
+/* Apply styles to the div with class 'six' */
+.six {
+    width: 50%;
+    float: left;
+}
+
+/* Apply styles to the div with class 'seven' */
+.seven {
+    width: 50%;
+    float: left;
+}
+
+/* Apply styles to the image elements with class 'image' */
+.image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Apply styles to the div with class 'services' */
+.services {
+    background-color: #04184cd7;
+    padding: 20px;
+}
+
+/* Apply styles to the h1 elements with class 'serv' */
+.serv {
+    text-align: center;
+}
+
+/* Apply styles to the div with class 'services-sub' */
+.services-sub {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Apply styles to the div with class 'serv-ca' */
+.serv-ca {
+    width: 48%;
+    margin-bottom: 20px;
+}
+
+/* Apply styles to the ul elements */
+ul {
+    padding-left: 20px;
+}
+
+/* Apply styles to the div with class 'contact' */
+.contact {
+    background-color: #4f5c8b;
+    padding: 20px;
+}
+
+/* Apply styles to the div with class 'contact_1' */
+.contact_1 {
+    text-align: center;
+}
+
+/* Apply styles to the div with class 'socialicon' */
+.socialicon {
+    text-align: center;
+}
+
+/* Apply styles to the img elements with class 'icon' */
+.icon {
+    max-width: 100%;
+    height: auto;
+}
